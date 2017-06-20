@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Setting>
+	<Map>
+		<MapNode>
+			<Resource_Server_IP>127.0.0.1</Resource_Server_IP>
+			<Resource_Server_UserName>Administrator</Resource_Server_UserName>
+			<Resource_Server_Password>z</Resource_Server_Password>
+			<Resource_Server_Share_Dir>D:\Root</Resource_Server_Share_Dir>
+			<Resource_Server_Share_Name>Root</Resource_Server_Share_Name>
+			<Local_Disk_Name>Z:</Local_Disk_Name>
+		</MapNode>
+		<MapNode>
+			<Resource_Server_IP>172.16.41.186</Resource_Server_IP>
+			<Resource_Server_UserName>gzl</Resource_Server_UserName>
+			<Resource_Server_Password></Resource_Server_Password>
+			<Resource_Server_Share_Dir>D:\Root</Resource_Server_Share_Dir>
+			<Resource_Server_Share_Name>Root</Resource_Server_Share_Name>
+			<Local_Disk_Name>Y:</Local_Disk_Name>
+		</MapNode>
+	</Map>
+</Setting>
